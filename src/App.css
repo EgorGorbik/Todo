@@ -1,0 +1,30 @@
+.todoListItems {
+    padding-top: 110px;
+}
+
+.addTodoForm {
+    z-index: 2;
+    position: fixed;
+    width:100%;
+    background-color: yellow;
+    height: 100px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.count {
+    position: absolute;
+    top: 10px;
+    width: 20px;
+    height: 20px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    background-color: red;
+}
+
+
+
